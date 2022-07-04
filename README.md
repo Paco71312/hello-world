@@ -1,2 +1,2 @@
 # hello-world
-mi primer reposistorio de Github
+ Hola mi nombre es Jose Francisco Arjona Pimentel y lo que que estoy haciend es aprender github 
